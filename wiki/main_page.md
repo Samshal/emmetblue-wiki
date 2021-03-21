@@ -2,7 +2,8 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+EmmetBlue is an enterprise-strength software for the Healthcare Industry. It does three things:
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
-
+1. Modularizes features and enables the development of modular interfaces that are scaffolded within a runner that manages the 'emmetblue ecosystem'
+2. Provides a cloud-native development, testing and depolyment model that works across hybrid, host - cloud and host - host environments, stealthily and resiliently. 
+3. Resiliently distributes, streams and consumes data across different sources, formats and locations in realtime.
